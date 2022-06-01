@@ -8,16 +8,14 @@
        <img src="https://komarev.com/ghpvc/?username=ranya-gh&label=Profile%20views&color=0e75b6&style=flat" alt="ranya-gh" />
 </p>
 <img align="right" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/girl_3.gif" width = 250px/>
-
-
 <p align="left">
  <a href="https://twitter.com/gharsallahranya" target="blank"><img src="https://img.shields.io/twitter/follow/gharsallahranya?logo=twitter&style=for-the-badge" alt="gharsallahranya" /></a> 
 <a href="https://kaggle.com/ranya gharsallah" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ranya gharsallah" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **TeaChat (end of studies Project)**
+- 🔭 I’m currently working on **'TeaChat' (end of studies Project)**
 
-- 🌱 I’m currently learning **pytorch and HuggingFace**
+- 🌱 I’m currently learning `pytorch` and `HuggingFace`
 
 - 📫 How to reach me **raniaa.gharsallah@gmail.com**
 
